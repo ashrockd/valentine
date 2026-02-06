@@ -385,7 +385,7 @@ body::before {
 
 .yesbutton {
     position: absolute;
-    bottom: 300px;
+    bottom: 200px;
     left: 50%;
     transform: translateX(-50%);
     padding: 1rem 3rem;
